@@ -1,0 +1,6 @@
+2190,Single,3000.0,false
+2190,Single,200.0,true
+2190,Single,3000.0,true
+3234,Single,3000.0,true
+325,Single,3000.0,true
+35555,Single,3000.0,true
