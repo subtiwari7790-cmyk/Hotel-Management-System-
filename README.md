@@ -6,7 +6,7 @@ A Hotel Management System developed using Java and JavaFX. The application allow
 ## Features  
 - Add and manage rooms
 - Manage customer details
-- Create room bookings
+- Create room bookings 
 - Store data using file handling
 - JavaFX graphical user interface
 
